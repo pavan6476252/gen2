@@ -1,16 +1,7 @@
 # gen2
+A user interface created using flutter sdk for iot application
 
-A new Flutter project.
+## screenshots
+![WhatsApp Image 2023-04-13 at 12 12 00 AM](https://user-images.githubusercontent.com/63488643/231554439-21ebcb74-68e2-4576-ae3a-b96b34b5949b.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-04-13 at 12 12 00 AM (1)](https://user-images.githubusercontent.com/63488643/231554466-9820bbba-cd2c-4ec8-bbe2-848104494917.jpeg)
